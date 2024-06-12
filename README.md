@@ -1,4 +1,5 @@
 ## Hi there 👋
+![thumb-1920-601040-1](https://github.com/daeuniiida/daeuniiida/assets/172486560/15c27b50-ec2f-4ecb-b500-ed00e4481389)
 
 <!--
 **daeuniiida/daeuniiida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
